@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 1. Sosyal Medya Rozetleri -->
+  <!-- 1. Rozetler -->
   <a href="mailto:ozgegumus1@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -33,12 +33,12 @@
 
   <br/>
 
-  <!-- 4. GitHub Streak İstatistiği -->
-  <img src="https://streak-stats.demolab.com/?user=ozgegumus1&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" />
+  <!-- 4. 3 Halkalı Streak Kartı (Yenilenmiş Önbellek Bağlantısı) -->
+  <img src="https://streak-stats.demolab.com?user=ozgegumus1&theme=dark&hide_border=true&date_format=M%20j%2C%20Y&cache=false" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- 5. Canlı Yeşil Commit / Katkı Takvimi -->
+  <!-- 5. Yeşil Katkı Grafiği -->
   <img src="https://ghchart.rshah.org/2ea44f/ozgegumus1" alt="Özge Gümüş GitHub Commit Grafik" width="100%" />
 
   <br/><br/>
