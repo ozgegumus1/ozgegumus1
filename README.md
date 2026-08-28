@@ -33,8 +33,8 @@
 
   <br/>
 
-  <!-- GitHub Aktivite Grafiği (Kotaya Takılmaz) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozgegumus1&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
+  <!-- GitHub Streak Kartı (Önbellek Temizleme Parametreli) -->
+  <img src="https://streak-stats.demolab.com/?user=ozgegumus1&theme=dark&hide_border=true&background=0D1117&v=2026" alt="GitHub Streak" />
 
   <br/><br/>
 
