@@ -33,8 +33,8 @@
 
   <br/>
 
-  <!-- GitHub Streak İstatistiği -->
-  <img src="https://streak-stats.demolab.com/?user=ozgegumus1&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <!-- Genel GitHub İstatistik Kartı (Kesintisiz Servis) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ozgegumus1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
   <br/><br/>
 
