@@ -33,8 +33,8 @@
 
   <br/>
 
-  <!-- GitHub Streak Kartı (Önbellek Temizleme Parametreli) -->
-  <img src="https://streak-stats.demolab.com/?user=ozgegumus1&theme=dark&hide_border=true&background=0D1117&v=2026" alt="GitHub Streak" />
+  <!-- Asla Kırılmayan GitHub Başarı Kupaları -->
+  <img src="https://github-profile-trophy.vercel.app/?username=ozgegumus1&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
   <br/><br/>
 
