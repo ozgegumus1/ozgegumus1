@@ -33,8 +33,8 @@
 
   <br/>
 
-  <!-- Genel GitHub İstatistik Kartı (Kesintisiz Servis) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ozgegumus1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- GitHub Aktivite Grafiği (Kotaya Takılmaz) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozgegumus1&theme=react-dark&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" width="100%" />
 
   <br/><br/>
 
